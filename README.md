@@ -55,7 +55,8 @@ The AI parses this into structured **segment rules**, drafts a **personalised ca
 
 ## 🏗️ Architecture
 
-![BiteLoop CRM Architecture](<img width="1280" height="700" alt="biteloop-architecture" src="https://github.com/user-attachments/assets/5d0ab880-2abc-4699-8932-e8a0f37046be" />
+![<img width="1280" height="700" alt="biteloop-architecture" src="https://github.com/user-attachments/assets/6410be9b-a1af-4741-899d-7a9c2f0c5e64" />
+](yes
 )
 
 ### High-Level Flow
