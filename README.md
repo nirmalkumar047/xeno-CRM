@@ -89,19 +89,21 @@ This is the core system-design piece of the assignment — a two-service, callba
 
 ---
 
-## 🛠️ Tech Stack
+
+## 🛠 Tech Stack
 
 | Layer | Technology |
-|---|---|
-| Frontend | React 18, Vite, Tailwind CSS, Recharts |
-| Backend | Node.js, Express |
-| Database | Firebase Firestore |
-| Authentication | Firebase Authentication |
-| AI | Groq API — `llama-3.3-70b-versatile` |
-| Channel Stub | Standalone Express service |
-| Deployment | Vercel (frontend) + Render (backends) |
+|--------|------------|
+| 🎨 Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| ⚙️ Backend | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
+| 🗄 Database | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| 🤖 AI | ![Groq](https://img.shields.io/badge/Groq-AI-FF4F00?style=for-the-badge) |
+| 📡 Channel Stub | ![Express](https://img.shields.io/badge/Express_Service-000000?style=for-the-badge&logo=express&logoColor=white) |
+| ☁️ Deployment | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) |
 
 ---
+
+
 
 ## 📁 Project Structure
 biteloop-crm/
