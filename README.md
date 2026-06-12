@@ -10,7 +10,7 @@
 
 | Resource | Link |
 |---|---|
-| 🌐 **Live Product (Frontend)** | [https://biteloop-crm.vercel.app](#) |
+| 🌐 **Live Product (Frontend)** | [[https://biteloop-crm.vercel.app](https://xeno-crm-16v9.vercel.app/) |
 | ⚙️ **CRM Backend API** | [https://biteloop-crm-backend.onrender.com](#) |
 | 📡 **Channel Stub Service** | [https://biteloop-channel-stub.onrender.com](#) |
 | 🎥 **Walkthrough Video (5-6 min)** | [Watch on YouTube/Loom](#) |
