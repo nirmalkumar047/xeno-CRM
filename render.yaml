@@ -1,0 +1,42 @@
+services:
+  - type: web
+    name: biteloop-crm-backend
+    env: node
+    region: singapore
+    plan: free
+    rootDir: crm-backend
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 4000
+      - key: NODE_ENV
+        value: production
+      - key: FIREBASE_PROJECT_ID
+        sync: false
+      - key: FIREBASE_PRIVATE_KEY_ID
+        sync: false
+      - key: FIREBASE_PRIVATE_KEY
+        sync: false
+      - key: FIREBASE_CLIENT_EMAIL
+        sync: false
+      - key: FIREBASE_CLIENT_ID
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: CHANNEL_STUB_URL
+        sync: false
+      - key: CRM_RECEIPT_URL
+        sync: false
+
+  - type: web
+    name: biteloop-channel-stub
+    env: node
+    region: singapore
+    plan: free
+    rootDir: channel-stub
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 5000

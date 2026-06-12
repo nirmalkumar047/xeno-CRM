@@ -1,0 +1,23 @@
+node_modules/
+.env
+dist/
+.DS_Store
+*.log
+.vercel
+
+
+# Environment files
+crm-backend/.env
+frontend/.env
+
+# Any env file anywhere
+**/.env
+
+# Firebase service account
+crm-backend/src/config/serviceAccountKey.json
+
+# Optional
+*.log
+node_modules/
+dist/
+build/
