@@ -54,6 +54,7 @@ The AI parses this into structured **segment rules**, drafts a **personalised ca
 ---
 
 ## 🏗️ Architecture
+<img width="1280" height="700" alt="biteloop-architecture" src="https://github.com/user-attachments/assets/aabd1a52-7fc8-4fc5-ae61-fd8577f9f4dd" />
 
 ![this is the img](<img width="1280" height="700" alt="biteloop-architecture" src="https://github.com/user-attachments/assets/19c5b7ea-edc2-4045-8144-e5545d88d31d" />
 )
