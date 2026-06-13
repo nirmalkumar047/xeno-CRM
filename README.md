@@ -13,7 +13,7 @@
 | 🌐 **Live Product (Frontend)** | [https://xeno-crm-16v9.vercel.app](https://xeno-crm-16v9.vercel.app) |
 | ⚙️ **CRM Backend API** | [https://biteloop-crm-backend.onrender.com](https://biteloop-crm-backend.onrender.com) |
 | 📡 **Channel Stub Service** | [https://biteloop-channel-stub.onrender.com](https://biteloop-channel-stub.onrender.com) |
-| 🎥 **Walkthrough Video (5-6 min)** | [Watch on YouTube/Loom](#) |
+| 🎥 **Walkthrough Video (5-6 min)** | [Watch on YouTube/Loom](https://youtu.be/cRD1Sd_BjzQ?si=B4OKhrZ-IGh5u5QS) |
 | 📂 **Repository** | You're here! |
 
 ---
